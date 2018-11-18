@@ -1,4 +1,8 @@
 new git rebase pull
 name faleke olajuwon
 
+# Team information
+
+github team - Software dev
+
 tech angular js
