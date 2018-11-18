@@ -1,1 +1,4 @@
 new git rebase pull
+name faleke olajuwon
+
+tech angular js
